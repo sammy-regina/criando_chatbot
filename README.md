@@ -18,7 +18,7 @@ No nível mais básico, um chatbot é um programa de computador que simula e pro
 ### Diagrama de Fluxo do chatbot
 
 <div style="text-align: center;">
-    <img src="" alt="diagrama_chatbot" width="500">
+    <img src="chatbot_para_restaurante\Diagrama de atendimento 2025-05-10 230842.png" alt="diagrama_chatbot" width="500">
 </div>
 
 ## Exercícios
