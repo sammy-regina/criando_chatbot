@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
         mensagem += `<li>Sábado: das 10:00 às 23:00 horas</li>`; // Adiciona o horário de sábado.
         mensagem += `<li>Domingo: das 10:00 às 14:00 horas</li>`; // Adiciona o horário de domingo.
         mensagem += `</ul>`; // Fecha a lista não ordenada.
-        mensagem += `Não temos atendimento aos feriados.<br>Obrigada pela compreensão.<br>Volte sempre.`; // Adiciona a mensagem final. `<br>` insere uma quebra de linha.
+        mensagem += `Não temos atendimento aos feriados.<br><br>Obrigada pela compreensão.<br>Volte sempre.`; // Adiciona a mensagem final. `<br>` insere uma quebra de linha.
         adicionarMensagem(mensagem); // Chama a função `adicionarMensagem` para exibir a mensagem no chat.
     }
 
