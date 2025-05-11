@@ -38,13 +38,15 @@
 
 .chatbot-dialog {
     background-color: #f9f9f9;
-    border: 1px solid #ccc;
+    border: 1px solid #458f40;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     margin-top: 10px;
     width: 300px;
     height: 400px;
     display: none; /* Inicialmente oculto */
+    flex-direction: column;
+    justify-content: space-between;
     flex-direction: column;
     justify-content: space-between;
 }
@@ -54,9 +56,9 @@
 }
 
 .chatbot-header {
-    background-color: #eee;
+    background-color: #93cd93;
     padding: 10px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #458f40;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -81,7 +83,7 @@
     border: none;
     font-size: 1.2em;
     cursor: pointer;
-    color: #777;
+    color: #458f40;
     padding: 0;
     line-height: 1;
 }
@@ -90,10 +92,20 @@
     color: #333;
 }
 
+.data-hora-abertura {
+    padding: 8px 10px;
+    text-align: center;
+    color: #777;
+    font-size: 0.9em;
+    border-bottom: 1px solid #eee;
+}
+
 .chat-log {
     padding: 10px;
     overflow-y: auto;
     flex-grow: 1;
+    display: flex; /* Adiciona um layout flexível ao chat log */
+    flex-direction: column; /* Garante que as mensagens fiquem uma abaixo da outra */
 }
 
 .chat-log {
@@ -103,7 +115,7 @@
 }
 
 .user-message {
-    background-color: #e6f7ff;
+    background-color: #e6f7f89f;
     color: #333;
     padding: 8px;
     border-radius: 5px;
@@ -114,7 +126,7 @@
 }
 
 .chatbot-message {
-    background-color: #fff;
+    background-color: #ececec;
     color: #333;
     padding: 8px;
     border-radius: 5px;
@@ -139,7 +151,7 @@
 }
 
 .input-area button {
-    background-color: #007bff;
+    background-color: #458f40;
     color: white;
     border: none;
     padding: 8px 15px;
@@ -148,5 +160,5 @@
 }
 
 .input-area button:hover {
-    background-color: #0056b3;
+    background-color: #93cd93;
 }
