@@ -3,6 +3,7 @@
 | Estácio de São Paulo | ADS | Cloud, IOT e Python | Prof. Fabio Oliveira | 2025 |
 
 # criando_chatbot
+
 Este repositório é destinado a criação e aperfeiçoamento de um chatbot funcional que poderá ser adequado conforme a necessidade do negócio
 
 ![chatbot](https://website-assets-fw.freshworks.com/attachments/ck7d4ylyq01yw6hfze0i6wlc3-chatbot-01.one-half.png)
@@ -17,8 +18,9 @@ No nível mais básico, um chatbot é um programa de computador que simula e pro
 
 ### Diagrama de Fluxo do chatbot
 
+
 <div style="text-align: center;">
-    <img src="chatbot_para_restaurante\Diagrama de atendimento 2025-05-10 230842.png" alt="diagrama_chatbot" width="500">
+    <img src="chatbot_para_restaurante\static\pictures\Diagrama de atendimento 2025-05-10 230842.png" alt="diagrama_chatbot" width="500">
 </div>
 
 ## Exercícios
@@ -38,8 +40,6 @@ __Pergunta:__
 
 O cliente pode perguntar sobre as coleções disponíveis, tamanhos, preços e formas de pagamento.
 
-
-
 __3. Chatbot para Agência de Viagens__
 
 Desenvolver um chatbot que ofereça informações sobre pacotes de viagens e destinos turísticos.
@@ -47,7 +47,6 @@ Desenvolver um chatbot que ofereça informações sobre pacotes de viagens e des
 __Pergunta:__
 
 O cliente pode pedir detalhes sobre pacotes promocionais, destinos internacionais e serviços de hospedagem.
-
 
 __4. Chatbot para Suporte Técnico__
 
@@ -57,7 +56,6 @@ __Pergunta:__
 
 O cliente pode relatar problemas com a internet, computador ou aplicativo, e o chatbot deve fornecer soluções.
 
-
 __5. Chatbot para Academia de Ginástica__
 
 Criar um chatbot que forneça informações sobre planos de academia e horários de aulas.
@@ -65,7 +63,6 @@ Criar um chatbot que forneça informações sobre planos de academia e horários
 __Pergunta:__
 
 O cliente pode perguntar sobre planos de musculação, aulas coletivas e horários de funcionamento.
-
 
 __6. Chatbot para Supermercado__
 
@@ -91,7 +88,6 @@ __Pergunta:__
 
 O cliente pode perguntar sobre livros de ficção, aventura, best sellers entre outros, biografias ou lançamentos.
 
-
 __9. Chatbot para Farmácia__
 
 Criar um chatbot que informe sobre medicamentos, preços e entregas.
@@ -99,7 +95,6 @@ Criar um chatbot que informe sobre medicamentos, preços e entregas.
 __Pergunta:__
 
 O cliente pode perguntar sobre disponibilidade de medicamentos, preços e formas de entrega.
-
 
 __10. Chatbot para Clínica de Estética__
 
@@ -109,7 +104,6 @@ __Pergunta:__
 
 O cliente pode perguntar sobre tratamentos de pele, preços e agendamentos.
 
-
 __11. Chatbot para Oficina Mecânica__
 
 Criar um chatbot que forneça informações sobre consertos e manutenção de veículos.
@@ -117,7 +111,6 @@ Criar um chatbot que forneça informações sobre consertos e manutenção de ve
 __Pergunta:__
 
 O cliente pode perguntar sobre consertos, revisões e valores.
-
 
 __12. Chatbot para Loja de Eletrônicos__
 
@@ -127,7 +120,6 @@ __Pergunta:__
 
 O cliente pode perguntar sobre celulares, computadores e garantia dos produtos.
 
-
 __13. Chatbot para Imobiliária__
 
 Desenvolver um chatbot que forneça informações sobre compra e aluguel de imóveis.
@@ -136,7 +128,6 @@ __Pergunta:__
 
 O cliente pode perguntar sobre imóveis para venda, aluguel e preços.
 
-
 __14. Chatbot para Loja de Brinquedos__
 
 Simular um chatbot que forneça informações sobre brinquedos e preços.
@@ -144,7 +135,6 @@ Simular um chatbot que forneça informações sobre brinquedos e preços.
 __Pergunta:__
 
 O cliente pode perguntar sobre brinquedos infantis, lançamentos e promoções.
-
 
 __15. Chatbot para Curso Online__
 
