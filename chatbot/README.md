@@ -14,7 +14,7 @@ Este é um chatbot simples desenvolvido para um salão de beleza, que ajuda a re
 
 ## Requisitos
 
-Para executar o chatbot, você precisa ter instalado:
+Para executar este chatbot, você precisa ter instalado:
 
 - Python 3.6 ou superior
 - Flask
